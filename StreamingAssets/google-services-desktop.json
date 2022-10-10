@@ -1,0 +1,83 @@
+{
+  "project_info": {
+    "project_number": "1001920135028",
+    "firebase_url": "https://projektsussenberg-default-rtdb.firebaseio.com",
+    "project_id": "projektsussenberg",
+    "storage_bucket": "projektsussenberg.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1001920135028:android:67ac4ab82a98399d7ff621",
+        "android_client_info": {
+          "package_name": "com.daiyugs.projektsussenberg"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1001920135028-mfljsbnq4l4jitl123ivhn3ltb8tkae0.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBjaWjV-uhMvgADIBDI9tTdECjqn_3358s"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1001920135028-mfljsbnq4l4jitl123ivhn3ltb8tkae0.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "1001920135028-72dn76j181hkvoao377pp4qtqlbdj5em.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.daiyugs.sussenburg"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1001920135028:android:31edc861fdb8c54e7ff621",
+        "android_client_info": {
+          "package_name": "com.daiyugs.sussenburg"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1001920135028-mfljsbnq4l4jitl123ivhn3ltb8tkae0.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBjaWjV-uhMvgADIBDI9tTdECjqn_3358s"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1001920135028-mfljsbnq4l4jitl123ivhn3ltb8tkae0.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "1001920135028-72dn76j181hkvoao377pp4qtqlbdj5em.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.daiyugs.sussenburg"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
